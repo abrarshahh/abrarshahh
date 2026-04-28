@@ -27,7 +27,7 @@
 
 ## About Me
 
-I am a developer from Delhi, India with a strong interest in machine learning, deep learning, Python development, and applied AI. I enjoy building projects that connect data, models, and software into solutions that are both useful and well-structured.
+I am a developer with a strong interest in machine learning, deep learning, Python development, and applied AI. I enjoy building projects that connect data, models, and software into solutions that are both useful and well-structured.
 
 My background and hands-on work reflect experience in:
 
