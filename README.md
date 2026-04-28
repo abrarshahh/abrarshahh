@@ -49,13 +49,13 @@ My background and hands-on work reflect experience in:
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,django,flask,fastapi,tensorflow,pandas,git,github,docker"
+    src="https://skillicons.dev/icons?i=python,django,flask,fastapi,tensorflow,git,github,docker"
     alt="Tech stack icons for Python, Django, Flask, FastAPI, TensorFlow, Pandas, Git, GitHub, and Docker"
   />
 </p>
 
 <p align="center">
-  <code>Machine Learning</code> <code>Deep Learning</code> <code>GenAI</code> <code>Agentic AI</code> <code>LangChain</code> <code>LangGraph</code>
+  <code>Machine Learning</code> <code>Deep Learning</code> <code>GenAI</code> <code>Agentic AI</code> <code>LangChain</code> <code>LangGraph</code> <code>Deep Learning</code>
 </p>
 
 <p align="center">
