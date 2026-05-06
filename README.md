@@ -101,6 +101,11 @@ What I value in every project:
 ## Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## GitHub Activity
