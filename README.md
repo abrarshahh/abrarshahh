@@ -1,4 +1,14 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Abrar Shah Banner" width="100%" />
+</p>
+
 # Abrar Shah
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Training+Models...;Building+AI+Agents...;Developing+Python+APIs..." alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <strong>Data Scientist | ML & Python Developer</strong><br />
@@ -88,13 +98,19 @@ What I value in every project:
 - Thoughtful user experience
 - Continuous learning through real projects
 
-## GitHub Stats
+## Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abrarshahh&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&theme=default"
-    alt="GitHub stats for abrarshahh"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abrarshahh/abrarshahh/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abrarshahh/abrarshahh/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abrarshahh/abrarshahh/output/dist/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ## Connect
