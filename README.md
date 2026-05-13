@@ -139,7 +139,7 @@ What I value in every project:
 
 <!-- Paste your Insights embed image URL from wakatime.com/share (Insights section) below -->
 <!-- How to get it: Log in → wakatime.com/share → Insights → copy the <img> URL -->
-![WakaTime Insights](https://wakatime.com/share/@9f315526-a60d-43c3-9f17-1ed60d6faa82/63827ae2-4b38-4a56-87df-cf960d8c0846.svg) -->
+<!-- ![WakaTime Insights](https://wakatime.com/share/@9f315526-a60d-43c3-9f17-1ed60d6faa82/63827ae2-4b38-4a56-87df-cf960d8c0846.svg) --> -->
 
 ### 🎞️ Coding Journey
 
