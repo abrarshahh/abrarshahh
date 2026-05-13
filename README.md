@@ -71,18 +71,23 @@ My background and hands-on work reflect experience in:
 ## Featured Projects
 
 ### [PyVoiceAgent](https://github.com/abrarshahh/PyVoiceAgent)
+
 Fully local voice agent powered by DeepSeek R1, Faster Whisper, Chatterbox TTS, and LangGraph for voice-to-voice interaction without cloud dependency.
 
 ### [LuminaScrape](https://github.com/abrarshahh/LuminaScrape)
+
 Scraping and data extraction project focused on turning unstructured web content into cleaner, more usable data for downstream analysis and automation.
 
 ### [Shortify](https://github.com/abrarshahh/Shortify_BE)
+
 A hybrid AI video engine that automates Reel and TikTok creation. Features content analysis via Gemini, creative reasoning via Groq (Llama 3), and beat-synced editing with Librosa. Powered by FastAPI and MoviePy.
 
 ### [Student_Performance_MLOps](https://github.com/abrarshahh/Student_Performance_MLOps)
+
 End-to-end machine learning and MLOps project for student performance prediction with training, evaluation, and deployment workflows.
 
 ### [FruitClassification_YOLO](https://github.com/abrarshahh/FruitClassification_YOLO)
+
 Computer vision project using YOLO for fruit detection and classification.
 
 ## Working Style
@@ -94,9 +99,12 @@ What I value in every project:
 - Thoughtful user experience
 - Continuous learning through real projects
 
-## Weekly Coding Stats
+## ⏱️ WakaTime Coding Activity
+
+### 📝 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ```txt
 Python       9 hrs 51 mins         ███████████████████░░░░░░   76.54 %
@@ -106,7 +114,49 @@ Other        38 mins               █▒░░░░░░░░░░░░░
 YAML         24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abrarshahh/abrarshahh/main/images/wakatime_weekly_language_stats.svg" alt="Weekly Language Stats" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abrarshahh/abrarshahh/main/images/wakatime_weekly_project_stats.svg" alt="Weekly Project Stats" />
+</p>
+
+### 🏅 Repo Badges
+
+<p align="center">
+  <a href="https://wakatime.com/badge/github/abrarshahh/PyVoiceAgent">
+    <img src="https://wakatime.com/badge/github/abrarshahh/PyVoiceAgent.svg" alt="wakatime: PyVoiceAgent" />
+  </a>
+  &nbsp;
+  <a href="https://wakatime.com/badge/github/abrarshahh/LuminaScrape">
+    <img src="https://wakatime.com/badge/github/abrarshahh/LuminaScrape.svg" alt="wakatime: LuminaScrape" />
+  </a>
+  &nbsp;
+  <a href="https://wakatime.com/badge/github/abrarshahh/Shortify_BE">
+    <img src="https://wakatime.com/badge/github/abrarshahh/Shortify_BE.svg" alt="wakatime: Shortify" />
+  </a>
+  &nbsp;
+  <a href="https://wakatime.com/badge/github/abrarshahh/Student_Performance_MLOps">
+    <img src="https://wakatime.com/badge/github/abrarshahh/Student_Performance_MLOps.svg" alt="wakatime: Student_Performance_MLOps" />
+  </a>
+  &nbsp;
+  <a href="https://wakatime.com/badge/github/abrarshahh/FruitClassification_YOLO">
+    <img src="https://wakatime.com/badge/github/abrarshahh/FruitClassification_YOLO.svg" alt="wakatime: FruitClassification_YOLO" />
+  </a>
+</p>
+
+### 💡 Insights
+
+<!-- Paste your Insights embed image URL from wakatime.com/share (Insights section) below -->
+<!-- How to get it: Log in → wakatime.com/share → Insights → copy the <img> URL -->
+![WakaTime Insights](https://wakatime.com/share/@abrarshahh/REPLACE_WITH_YOUR_INSIGHTS_ID.svg)
+
+### 🎞️ Coding Journey
+
+<!-- Paste your Animated GIF URL from wakatime.com/share (Animated GIFs section) below -->
+<!-- How to get it: Log in → wakatime.com/share → Animated GIFs → copy the GIF URL -->
+![Coding Journey GIF](https://wakatime.com/share/@abrarshahh/REPLACE_WITH_YOUR_GIF_ID.gif)
 
 ## GitHub Activity
 
