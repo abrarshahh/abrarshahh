@@ -71,18 +71,23 @@ My background and hands-on work reflect experience in:
 ## Featured Projects
 
 ### [PyVoiceAgent](https://github.com/abrarshahh/PyVoiceAgent)
+
 Fully local voice agent powered by DeepSeek R1, Faster Whisper, Chatterbox TTS, and LangGraph for voice-to-voice interaction without cloud dependency.
 
 ### [LuminaScrape](https://github.com/abrarshahh/LuminaScrape)
+
 Scraping and data extraction project focused on turning unstructured web content into cleaner, more usable data for downstream analysis and automation.
 
 ### [Shortify](https://github.com/abrarshahh/Shortify_BE)
+
 A hybrid AI video engine that automates Reel and TikTok creation. Features content analysis via Gemini, creative reasoning via Groq (Llama 3), and beat-synced editing with Librosa. Powered by FastAPI and MoviePy.
 
 ### [Student_Performance_MLOps](https://github.com/abrarshahh/Student_Performance_MLOps)
+
 End-to-end machine learning and MLOps project for student performance prediction with training, evaluation, and deployment workflows.
 
 ### [FruitClassification_YOLO](https://github.com/abrarshahh/FruitClassification_YOLO)
+
 Computer vision project using YOLO for fruit detection and classification.
 
 ## Working Style
@@ -104,11 +109,11 @@ What I value in every project:
 ### 📊 Language & Project Charts
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abrarshahh/abrarshahh/master/images/wakatime_weekly_language_stats.svg" alt="Weekly Language Stats" />
+  <img src="https://raw.githubusercontent.com/abrarshahh/abrarshahh/main/images/wakatime_weekly_language_stats.svg" alt="Weekly Language Stats" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abrarshahh/abrarshahh/master/images/wakatime_weekly_project_stats.svg" alt="Weekly Project Stats" />
+  <img src="https://raw.githubusercontent.com/abrarshahh/abrarshahh/main/images/wakatime_weekly_project_stats.svg" alt="Weekly Project Stats" />
 </p>
 
 ### 🏅 Repo Badges
@@ -134,12 +139,6 @@ What I value in every project:
     <img src="https://wakatime.com/badge/github/abrarshahh/FruitClassification_YOLO.svg" alt="wakatime: FruitClassification_YOLO" />
   </a>
 </p>
-
-### 🎯 Goals
-
-<!-- Paste your Goals embed image URL from wakatime.com/share (Goals section) below -->
-<!-- How to get it: Log in → wakatime.com/share → Goals → copy the <img> URL -->
-![WakaTime Goals](https://wakatime.com/share/@abrarshahh/REPLACE_WITH_YOUR_GOALS_ID.svg)
 
 ### 💡 Insights
 
