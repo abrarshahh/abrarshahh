@@ -94,15 +94,64 @@ What I value in every project:
 - Thoughtful user experience
 - Continuous learning through real projects
 
-## Weekly Coding Stats
+## ⏱️ WakaTime Coding Activity
+
+### 📝 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
+
+### 📊 Language & Project Charts
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abrarshahh/abrarshahh/master/images/wakatime_weekly_language_stats.svg" alt="Weekly Language Stats" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abrarshahh/abrarshahh/master/images/wakatime_weekly_project_stats.svg" alt="Weekly Project Stats" />
+</p>
+
+### 🏅 Repo Badges
+
+<p align="center">
+  <a href="https://wakatime.com/badge/github/abrarshahh/PyVoiceAgent">
+    <img src="https://wakatime.com/badge/github/abrarshahh/PyVoiceAgent.svg" alt="wakatime: PyVoiceAgent" />
+  </a>
+  &nbsp;
+  <a href="https://wakatime.com/badge/github/abrarshahh/LuminaScrape">
+    <img src="https://wakatime.com/badge/github/abrarshahh/LuminaScrape.svg" alt="wakatime: LuminaScrape" />
+  </a>
+  &nbsp;
+  <a href="https://wakatime.com/badge/github/abrarshahh/Shortify_BE">
+    <img src="https://wakatime.com/badge/github/abrarshahh/Shortify_BE.svg" alt="wakatime: Shortify" />
+  </a>
+  &nbsp;
+  <a href="https://wakatime.com/badge/github/abrarshahh/Student_Performance_MLOps">
+    <img src="https://wakatime.com/badge/github/abrarshahh/Student_Performance_MLOps.svg" alt="wakatime: Student_Performance_MLOps" />
+  </a>
+  &nbsp;
+  <a href="https://wakatime.com/badge/github/abrarshahh/FruitClassification_YOLO">
+    <img src="https://wakatime.com/badge/github/abrarshahh/FruitClassification_YOLO.svg" alt="wakatime: FruitClassification_YOLO" />
+  </a>
+</p>
+
+### 🎯 Goals
+
+<!-- Paste your Goals embed image URL from wakatime.com/share (Goals section) below -->
+<!-- How to get it: Log in → wakatime.com/share → Goals → copy the <img> URL -->
+![WakaTime Goals](https://wakatime.com/share/@abrarshahh/REPLACE_WITH_YOUR_GOALS_ID.svg)
+
+### 💡 Insights
+
+<!-- Paste your Insights embed image URL from wakatime.com/share (Insights section) below -->
+<!-- How to get it: Log in → wakatime.com/share → Insights → copy the <img> URL -->
+![WakaTime Insights](https://wakatime.com/share/@abrarshahh/REPLACE_WITH_YOUR_INSIGHTS_ID.svg)
+
+### 🎞️ Coding Journey
+
+<!-- Paste your Animated GIF URL from wakatime.com/share (Animated GIFs section) below -->
+<!-- How to get it: Log in → wakatime.com/share → Animated GIFs → copy the GIF URL -->
+![Coding Journey GIF](https://wakatime.com/share/@abrarshahh/REPLACE_WITH_YOUR_GIF_ID.gif)
 
 ## GitHub Activity
 
