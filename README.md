@@ -101,18 +101,7 @@ What I value in every project:
 
 ## ⏱️ WakaTime Coding Activity
 
-### 📝 Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-```txt
-Python       9 hrs 51 mins         ███████████████████░░░░░░   76.54 %
-Markdown     57 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-Bash         42 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Other        38 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-YAML         24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-```
+### 📊 Language & Project Charts
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abrarshahh/abrarshahh/main/images/wakatime_weekly_language_stats.svg" alt="Weekly Language Stats" />
