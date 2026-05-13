@@ -104,48 +104,48 @@ What I value in every project:
 ### 📊 Language & Project Charts
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abrarshahh/abrarshahh/main/images/wakatime_weekly_language_stats.svg" alt="Weekly Language Stats" />
+  <img src="https://wakatime.com/share/@9f315526-a60d-43c3-9f17-1ed60d6faa82/ae698ff0-626d-4c28-a3ce-81785eb9a447.svg" alt="WakaTime Language Stats" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/abrarshahh/abrarshahh/main/images/wakatime_weekly_project_stats.svg" alt="Weekly Project Stats" />
-</p>
+</p> -->
 
 ### 🏅 Repo Badges
 
 <p align="center">
-  <a href="https://wakatime.com/badge/github/abrarshahh/PyVoiceAgent">
+  <!-- <a href="https://wakatime.com/badge/github/abrarshahh/PyVoiceAgent">
     <img src="https://wakatime.com/badge/github/abrarshahh/PyVoiceAgent.svg" alt="wakatime: PyVoiceAgent" />
   </a>
-  &nbsp;
+  &nbsp; -->
   <a href="https://wakatime.com/badge/github/abrarshahh/LuminaScrape">
-    <img src="https://wakatime.com/badge/github/abrarshahh/LuminaScrape.svg" alt="wakatime: LuminaScrape" />
+    <img src="https://wakatime.com/badge/user/9f315526-a60d-43c3-9f17-1ed60d6faa82/project/c7d36a18-d7fe-4dc3-8b8f-2dd60bdc5e53.svg" alt="wakatime: LuminaScrape" />
   </a>
   &nbsp;
   <a href="https://wakatime.com/badge/github/abrarshahh/Shortify_BE">
-    <img src="https://wakatime.com/badge/github/abrarshahh/Shortify_BE.svg" alt="wakatime: Shortify" />
+    <img src="https://wakatime.com/badge/user/9f315526-a60d-43c3-9f17-1ed60d6faa82/project/f6cbb7ea-1c78-4354-a19a-df2f7c9fec0e.svg" alt="wakatime: Shortify" />
   </a>
-  &nbsp;
+  <!-- &nbsp;
   <a href="https://wakatime.com/badge/github/abrarshahh/Student_Performance_MLOps">
     <img src="https://wakatime.com/badge/github/abrarshahh/Student_Performance_MLOps.svg" alt="wakatime: Student_Performance_MLOps" />
   </a>
   &nbsp;
   <a href="https://wakatime.com/badge/github/abrarshahh/FruitClassification_YOLO">
     <img src="https://wakatime.com/badge/github/abrarshahh/FruitClassification_YOLO.svg" alt="wakatime: FruitClassification_YOLO" />
-  </a>
+  </a> -->
 </p>
 
-### 💡 Insights
+<!-- ### 💡 Insights
 
 <!-- Paste your Insights embed image URL from wakatime.com/share (Insights section) below -->
 <!-- How to get it: Log in → wakatime.com/share → Insights → copy the <img> URL -->
-![WakaTime Insights](https://wakatime.com/share/@abrarshahh/REPLACE_WITH_YOUR_INSIGHTS_ID.svg)
+![WakaTime Insights](https://wakatime.com/share/@9f315526-a60d-43c3-9f17-1ed60d6faa82/63827ae2-4b38-4a56-87df-cf960d8c0846.svg) -->
 
 ### 🎞️ Coding Journey
 
 <!-- Paste your Animated GIF URL from wakatime.com/share (Animated GIFs section) below -->
 <!-- How to get it: Log in → wakatime.com/share → Animated GIFs → copy the GIF URL -->
-![Coding Journey GIF](https://wakatime.com/share/@abrarshahh/REPLACE_WITH_YOUR_GIF_ID.gif)
+![Coding Journey](https://wakatime.com/share/@9f315526-a60d-43c3-9f17-1ed60d6faa82/4822ad06-d092-47d8-aa98-f7777e47e06c.svg)
 
 ## GitHub Activity
 
