@@ -104,6 +104,15 @@ What I value in every project:
 ### 📝 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+Python     12 hrs 16 mins        █████████████████████░░░░   84.36 %
+Markdown   1 hr 27 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+Other      36 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+YAML       7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+JSON       3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+```
+
 <!--END_SECTION:waka-->
 
 ### 📊 Language & Project Charts
