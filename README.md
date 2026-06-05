@@ -115,12 +115,6 @@ JSON       3 mins                ░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### 🎞️ Coding Journey
-
-<!-- Paste your Animated GIF URL from wakatime.com/share (Animated GIFs section) below -->
-<!-- How to get it: Log in → wakatime.com/share → Animated GIFs → copy the GIF URL -->
-![Coding Journey GIF](https://wakatime.com/share/@abrarshahh/REPLACE_WITH_YOUR_GIF_ID.gif)
-
 ## GitHub Activity
 
 <p align="center">
