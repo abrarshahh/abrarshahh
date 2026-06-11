@@ -82,13 +82,13 @@ Scraping and data extraction project focused on turning unstructured web content
 
 A hybrid AI video engine that automates Reel and TikTok creation. Features content analysis via Gemini, creative reasoning via Groq (Llama 3), and beat-synced editing with Librosa. Powered by FastAPI and MoviePy.
 
-### [Student_Performance_MLOps](https://github.com/abrarshahh/Student_Performance_MLOps)
+### [Student Performance](https://github.com/abrarshahh/Student_Performance_MLOps)
 
 End-to-end machine learning and MLOps project for student performance prediction with training, evaluation, and deployment workflows.
 
-### [FruitClassification_YOLO](https://github.com/abrarshahh/FruitClassification_YOLO)
+### [Probe](https://github.com/abrarshahh/Probe_BE)
 
-Computer vision project using YOLO for fruit detection and classification.
+A powerful FastAPI context engine that ingests codebases, chunks structural data, and generates LLM-ready context using RAG and vector search.
 
 ## Working Style
 
