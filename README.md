@@ -106,11 +106,11 @@ What I value in every project:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       9 hrs 10 mins         █████████████████▓░░░░░░░   70.52 %
-Markdown     2 hrs 56 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
-Bash         32 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-JSON         17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-Other        2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Python       8 hrs 32 mins         ████████████████▓░░░░░░░░   66.85 %
+Markdown     2 hrs 43 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.31 %
+TypeScript   45 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Bash         20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Other        14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
