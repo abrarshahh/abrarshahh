@@ -106,11 +106,11 @@ What I value in every project:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON           6 hrs 26 mins         ███████████▒░░░░░░░░░░░░░   45.34 %
-Python         6 hrs 13 mins         ███████████░░░░░░░░░░░░░░   43.74 %
-Text           1 hr 10 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-Git Config     12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Image (jpeg)   4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Python         4 hrs 53 mins         ███████████░░░░░░░░░░░░░░   43.97 %
+JSON           4 hrs 42 mins         ██████████▓░░░░░░░░░░░░░░   42.27 %
+Text           1 hr 1 min            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+Git Config     12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Other          5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
